@@ -1,0 +1,4 @@
+<resources>
+    <string name="url">http://10.13.5.120:3000/api/pongphon</string>
+    <string name="app_name">AiAndroid</string>
+</resources>
